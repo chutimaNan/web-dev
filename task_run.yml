@@ -6,5 +6,5 @@ image_resource:
   source: {repository: busybox}
 
 run:
-  path: ./docker-compose.yml
+  path: ./web_dev/docker-compose.yml
   
